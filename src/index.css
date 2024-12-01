@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Shippori+Antique+B1&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Shippori Antique B1", sans-serif;
+  color:  #f8f8f8;
+}
+
+.myfont {
+  font-family: "Shippori Antique B1", sans-serif;
+
+}
+
